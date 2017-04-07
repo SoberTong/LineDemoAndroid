@@ -174,7 +174,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * 分享功能
+     * 分享功能（单独分享文字，单独分享图片，同时分享文字和图片）
      *  LINE
      *  ComponentName(String pkg, String cls)
      *  line的包名，line的接收资料的类名--》 </intent-filter> MainFist里面
